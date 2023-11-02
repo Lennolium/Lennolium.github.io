@@ -1,3 +1,0 @@
-lennolium.dev index.html -> personal
-swiftguard.lennolium.dev -> swiftguard project
-xxx.lennolium.dev -> xxx project
